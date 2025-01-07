@@ -1,0 +1,11 @@
+# Node.js and React project files
+node_modules/
+build/
+*.log
+
+# IDE-specific files
+.vs/
+*.user
+*.userosscache
+*.suo
+*.tmp
