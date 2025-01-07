@@ -1,0 +1,6 @@
+@lvrapplication_HostAddress = http://localhost:5278
+
+GET {{lvrapplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "LVRCalculatorAPI.Controllers.LVRController",
+    "Method": "CalculateLVR",
+    "RelativePath": "api/LVR/calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "LVRCalculatorAPI.Models.LVRCalculate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
